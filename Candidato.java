@@ -2,16 +2,18 @@ public class Candidato {
 
     private String cedula;
     private String nombre;
-    private PartidoPolitico partido;
+
+    // Requisito: referencia al partido por ID 
+    private String idPartido;
+
     private int edad;
     private int cantidadVotos;
     private boolean costarricense;
 
-    public Candidato(String cedula, String nombre, PartidoPolitico partido,
-                     int edad, boolean costarricense) {
+    public Candidato(String cedula, String nombre, String idPartido, int edad, boolean costarricense) {
         this.cedula = cedula;
         this.nombre = nombre;
-        this.partido = partido;
+        this.idPartido = idPartido;
         this.edad = edad;
         this.costarricense = costarricense;
         this.cantidadVotos = 0;
@@ -33,12 +35,12 @@ public class Candidato {
         this.nombre = nombre;
     }
 
-    public PartidoPolitico getPartido() {
-        return partido;
+    public String getIdPartido() {
+        return idPartido;
     }
 
-    public void setPartido(PartidoPolitico partido) {
-        this.partido = partido;
+    public void setIdPartido(String idPartido) {
+        this.idPartido = idPartido;
     }
 
     public int getEdad() {
@@ -65,12 +67,16 @@ public class Candidato {
         this.costarricense = costarricense;
     }
 
+    public void sumarVoto() {
+        this.cantidadVotos++;
+    }
+
     @Override
     public String toString() {
         return "Candidato{" +
                 "cedula='" + cedula + '\'' +
                 ", nombre='" + nombre + '\'' +
-                ", partido=" + partido.getNombre() +
+                ", idPartido='" + idPartido + '\'' +
                 ", edad=" + edad +
                 ", cantidadVotos=" + cantidadVotos +
                 ", costarricense=" + costarricense +
