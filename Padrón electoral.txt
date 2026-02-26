@@ -1,0 +1,20 @@
+1-2345-0678;María Fernanda López Rojas;San Jose
+2-3456-0789;Carlos Andrés Brenes Vargas;Alajuela
+3-4567-0890;Daniela Rodríguez Mora;Cartago
+4-5678-0901;José Pablo Chacón Jiménez;Heredia
+5-6789-1012;Laura Sofía Quesada León;Liberia
+6-7890-1123;Andrés Felipe Salazar Gómez;Puntarenas
+7-8901-1234;Valeria Montero Castillo;Limon
+8-9012-1345;Ricardo Herrera Solís;Desamparados
+9-0123-1456;Natalia Vargas Araya;Escazu
+1-1234-1567;Esteban Ramírez López;Tibas
+2-2345-1678;Gabriela Méndez Torres;Curridabat
+3-3456-1789;Fernando Aguilar Soto;Nicoya
+4-4567-1890;Sofía Jiménez Morales;San Ramon
+5-5678-1901;Diego Castro Molina;Grecia
+6-6789-2012;Camila Rojas Delgado;Santa Ana
+7-7890-2123;Mauricio Pérez Navarro;Perez Zeledon
+8-8901-2234;Andrea Solano Vargas;Oreamuno
+9-9012-2345;Jorge Villalobos Hernández;Moravia
+1-2468-1357;Paola Cordero Sánchez;Barva
+2-1357-2468;Luis Fernando Ureña Campos;Atenas
