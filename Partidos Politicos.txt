@@ -1,0 +1,15 @@
+Partido Nueva Esperanza Costarricense;3-110-100001;Azul y Blanco;Rómulo Castillo Mora; presidencia@nuevaesperanza.cr
+Partido Renovación Democrática;3-110-100002;Rojo, Blanco y Celeste;Carlos Jiménez Soto;contacto@renovaciondemocratica.cr
+Partido Futuro Verde;3-110-100003;Verde y Amarillo;Andrea Solís Vargas;info@futuroverde.cr
+Partido Unión Ciudadana Progresista;3-110-100004;Morado y Blanco;Esteban Rojas Castillo;presidencia@unionprogresista.cr
+Movimiento Horizonte Azul;3-110-100005;Azul, rosado y Celeste;Mariana Chacón Ruiz;direccion@horizonteazul.cr
+Partido Alianza Social Costarricense;3-110-100006;Naranja y Blanco;Diego Morales Pérez;contacto@alianzasocial.cr
+Partido Justicia y Desarrollo;3-110-100007;Rojo y Dorado;Sofía Herrera León;info@justiciadesarrollo.cr
+Partido Fuerza del Pueblo;3-110-100008;Azul, Naranja y Verde;Ricardo Vargas Núñez;presidencia@fuerzapueblo.cr
+Partido Cambio Generacional;3-110-100009;Verde, negro y Blanco;Daniela Castro Molina;contacto@cambiogeneracional.cr
+Partido Integración Costarricense;3-110-100010;Azul,fucsia y Verde claro;Mauricio Salazar Gómez;info@integracioncr.cr
+Partido Democracia Activa;3-110-100011;Blanco y Rojo;Valeria Quesada Araya;presidencia@democraciaactiva.cr
+Partido Progreso Nacional Solidario;3-110-100012;Azul Marino y Blanco;Fernando Ramírez López;contacto@progresosolidario.cr
+Movimiento Nueva Ruta;3-110-100013;Verde y Azul;Natalia Brenes Delgado;info@nuevaruta.cr
+Partido Libertad Ciudadana;3-110-100014;Amarillo y Azul;Andrés Aguilar Soto;presidencia@libertadciudadana.cr
+Partido Desarrollo Sostenible Nacional;3-110-100015;Verde, Morado y Azul; Gabriela Méndez Torres;contacto@desarrollosostenible.cr
